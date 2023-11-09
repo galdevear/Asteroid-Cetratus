@@ -1,0 +1,13 @@
+body {
+    background-color: #060206;
+    background-image: url("Asteroid\ Cetratus\ Website.png");
+    background-size: cover;
+    width: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    max-height: 1px;
+}
+
+div {
+    display: block;
+}
